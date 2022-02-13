@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-12-01'
-lastmod: 2022-02-12T22:57:22-05:00
+lastmod: 2022-02-13T09:36:21-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:21.920290Z'
+publishDate: '2022-02-13T14:37:12.473175Z'
 publication_types:
 - '2'
 abstract: It has been challenging to detect trends of tropical cyclone (TC) properties
@@ -50,5 +50,5 @@ publication: '*Scientific Reports*'
 doi: 10.1038/s41598-021-01612-9
 links:
 - name: URL
-  url: https://doi.org/10.1038/s41598-021-01612-9 https://www.nature.com/articles/s41598-021-01612-9
+  url: https://www.nature.com/articles/s41598-021-01612-9
 ---

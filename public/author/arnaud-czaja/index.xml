@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arnaud Czaja | Academic</title>
-    <link>https://academic-demo.netlify.app/author/arnaud-czaja/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/arnaud-czaja/index.xml" rel="self" type="application/rss+xml" />
+    <title>Arnaud Czaja | Shuai Wang</title>
+    <link>https://www.shuai-wang.com/author/arnaud-czaja/</link>
+      <atom:link href="https://www.shuai-wang.com/author/arnaud-czaja/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnaud Czaja</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Shuai Wang</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.shuai-wang.com/media/icon_hu5024174c6628028001996f9242122e05_59160_512x512_fill_lanczos_center_3.png</url>
       <title>Arnaud Czaja</title>
-      <link>https://academic-demo.netlify.app/author/arnaud-czaja/</link>
+      <link>https://www.shuai-wang.com/author/arnaud-czaja/</link>
     </image>
     
     <item>
       <title>An analytic model of tropical cyclone wind profiles</title>
-      <link>https://academic-demo.netlify.app/publication/wang-2015/</link>
+      <link>https://www.shuai-wang.com/publication/wang-2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/wang-2015/</guid>
+      <guid>https://www.shuai-wang.com/publication/wang-2015/</guid>
       <description></description>
     </item>
     

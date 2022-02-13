@@ -1,15 +1,15 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Shuai Wang",
+  "short_name": "Shuai Wang",
   "lang": "en-us",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu5024174c6628028001996f9242122e05_59160_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu5024174c6628028001996f9242122e05_59160_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

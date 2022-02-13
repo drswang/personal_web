@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:22.237245Z'
+publishDate: '2022-02-13T14:37:13.096874Z'
 publication_types:
 - '2'
 abstract: There have been no high-frequency aircraft observations of tropical cyclone

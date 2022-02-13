@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:22.010946Z'
+publishDate: '2022-02-13T14:37:12.955933Z'
 publication_types:
 - '2'
 abstract: Mesoscale ocean temperature anomalies modify a tropical cyclone (TC). Through

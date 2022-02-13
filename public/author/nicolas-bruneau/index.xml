@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nicolas Bruneau | Academic</title>
-    <link>https://academic-demo.netlify.app/author/nicolas-bruneau/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/nicolas-bruneau/index.xml" rel="self" type="application/rss+xml" />
+    <title>Nicolas Bruneau | Shuai Wang</title>
+    <link>https://www.shuai-wang.com/author/nicolas-bruneau/</link>
+      <atom:link href="https://www.shuai-wang.com/author/nicolas-bruneau/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Bruneau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Shuai Wang</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.shuai-wang.com/media/icon_hu5024174c6628028001996f9242122e05_59160_512x512_fill_lanczos_center_3.png</url>
       <title>Nicolas Bruneau</title>
-      <link>https://academic-demo.netlify.app/author/nicolas-bruneau/</link>
+      <link>https://www.shuai-wang.com/author/nicolas-bruneau/</link>
     </image>
     
     <item>
       <title>Impact of wave whitecapping on land falling tropical cyclones</title>
-      <link>https://academic-demo.netlify.app/publication/bruneau-2018/</link>
+      <link>https://www.shuai-wang.com/publication/bruneau-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/bruneau-2018/</guid>
+      <guid>https://www.shuai-wang.com/publication/bruneau-2018/</guid>
       <description></description>
     </item>
     

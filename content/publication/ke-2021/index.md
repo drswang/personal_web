@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:21.773985Z'
+publishDate: '2022-02-13T14:37:12.590746Z'
 publication_types:
 - '2'
 abstract: Climate change leads to sea level rise worldwide, as well as increases in
@@ -74,5 +74,5 @@ publication: '*Natural Hazards*'
 doi: 10.1007/s11069-021-04853-z
 links:
 - name: URL
-  url: https://doi.org/10.1007/s11069-021-04853-z https://link.springer.com/10.1007/s11069-021-04853-z
+  url: https://link.springer.com/10.1007/s11069-021-04853-z
 ---

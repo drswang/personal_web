@@ -11,7 +11,7 @@ tags: []
 categories: []
 date: '2021-01-01'
 lastmod: 2022-02-12T22:57:21-05:00
-featured: true
+featured: true 
 draft: false
 
 # Featured image
@@ -19,7 +19,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: 'Center'
+  focal_point: Center
   preview_only: false
 
 # Projects (optional).
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:21.443341Z'
+publishDate: '2022-02-13T14:37:12.778392Z'
 publication_types:
 - '2'
 abstract: Poleward migrations of tropical cyclones have been observed globally, but

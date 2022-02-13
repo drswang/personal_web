@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:23.050774Z'
+publishDate: '2022-02-13T14:37:13.898994Z'
 publication_types:
 - '2'
 abstract: It is challenging to identify metrics that best capture hurricane destructive
@@ -53,6 +53,5 @@ publication: '*Environmental Research Letters*'
 doi: 10.1088/1748-9326/11/11/114005
 links:
 - name: URL
-  url: http://stacks.iop.org/1748-9326/11/i=11/a=114005?key=crossref.b8c4fd8906504a99c87f1218d5c8042f
-    https://iopscience.iop.org/article/10.1088/1748-9326/11/11/114005
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/11/11/114005
 ---

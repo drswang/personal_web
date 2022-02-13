@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:22.474206Z'
+publishDate: '2022-02-13T14:37:13.408919Z'
 publication_types:
 - '2'
 abstract: 9 It has been challenging to project the tropical cyclone intensity, structure
@@ -58,5 +58,5 @@ publication: '*Advances in Atmospheric Sciences*'
 doi: 10.1007/s00376-018-7277-5
 links:
 - name: URL
-  url: https://link.springer.com/content/pdf/10.1007%2Fs00376-018-7277-5.pdf http://link.springer.com/10.1007/s00376-018-7277-5
+  url: http://link.springer.com/10.1007/s00376-018-7277-5
 ---

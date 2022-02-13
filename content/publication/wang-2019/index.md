@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:22.354066Z'
+publishDate: '2022-02-13T14:37:13.289666Z'
 publication_types:
 - '2'
 abstract: The impact of dry midlevel air on the outer circulation of tropical cyclones
@@ -52,6 +52,5 @@ publication: '*Journal of the Atmospheric Sciences*'
 doi: 10.1175/JAS-D-18-0302.1
 links:
 - name: URL
-  url: https://doi.org/10.1175/JAS-D-18-0302.1 http://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1
-    https://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1
+  url: https://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1
 ---

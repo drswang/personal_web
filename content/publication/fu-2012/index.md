@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:23.365346Z'
+publishDate: '2022-02-13T14:37:14.213862Z'
 publication_types:
 - '2'
 abstract: In this paper, almost all available observational data and the latest 6.0
@@ -57,5 +57,5 @@ publication: '*Oceanic and Coastal Sea Research*'
 doi: 10.1007/s11802-012-1879-9
 links:
 - name: URL
-  url: http://www.ouc.edu.cn/xbywb/ http://link.springer.com/10.1007/s11802-012-1879-9
+  url: http://link.springer.com/10.1007/s11802-012-1879-9
 ---

@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T03:57:23.466869Z'
+publishDate: '2022-02-13T14:37:14.322874Z'
 publication_types:
 - '2'
 abstract: In this paper, a dense sea fog event that occurred over the Yellow Sea (YS)
@@ -54,5 +54,5 @@ publication: '*Weather and Forecasting*'
 doi: 10.1175/WAF-D-11-00152.1
 links:
 - name: URL
-  url: https://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-11-00152.1 http://journals.ametsoc.org/doi/abs/10.1175/WAF-D-11-00152.1
+  url: https://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-11-00152.1
 ---
