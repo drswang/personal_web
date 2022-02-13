@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengyuan Li | Academic</title>
+    <link>https://academic-demo.netlify.app/author/pengyuan-li/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/pengyuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengyuan Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Pengyuan Li</title>
+      <link>https://academic-demo.netlify.app/author/pengyuan-li/</link>
+    </image>
+    
+    <item>
+      <title>The Formation Mechanism of a Spring Sea Fog Event over the Yellow Sea Associated with a Low-Level Jet</title>
+      <link>https://academic-demo.netlify.app/publication/li-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/li-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison study between observation and simulation for sea fog over the Yellow Sea in May 2009</title>
+      <link>https://academic-demo.netlify.app/publication/fu-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/fu-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
