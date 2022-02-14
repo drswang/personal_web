@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: 100IC.jpeg
+    image: 100IC.png
     image_darken: 1.0
     image_parallax: false 
     image_position: center
