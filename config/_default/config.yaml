@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shuai Wang # Website name
+title: Shuai Wang GFDL-NOAA/Princeton # Website name
 baseurl: 'https://www.shuai-wang.com/' # Website URL
-copyright: '© 2022 Shuai Wang' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Shuai Wang. All rights reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
