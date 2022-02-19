@@ -254,6 +254,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=304425896"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', '304425896', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -532,7 +571,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#projects"><span>Funding</span></a>
+            <a class="nav-link " href="/#grant"><span>Grants</span></a>
           </li>
 
           
@@ -570,73 +609,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#featured"><span>Publications</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#talks"><span>Talks</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/courses/"><span>Courses</span></a>
           </li>
 
           
@@ -961,7 +933,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41598-021-01612-9%20https://www.nature.com/articles/s41598-021-01612-9" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nature.com/articles/s41598-021-01612-9" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -1149,7 +1121,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11069-021-04853-z%20https://link.springer.com/10.1007/s11069-021-04853-z" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/10.1007/s11069-021-04853-z" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -1587,7 +1559,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1175/JAS-D-18-0302.1%20http://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1%20https://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.ametsoc.org/doi/10.1175/JAS-D-18-0302.1" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -1760,7 +1732,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/content/pdf/10.1007%2Fs00376-018-7277-5.pdf%20http://link.springer.com/10.1007/s00376-018-7277-5" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://link.springer.com/10.1007/s00376-018-7277-5" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -1846,7 +1818,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://doi.wiley.com/10.1002/joc.5374%20https://onlinelibrary.wiley.com/doi/10.1002/joc.5374" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1002/joc.5374" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -2019,7 +1991,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://stacks.iop.org/1748-9326/11/i=11/a=114005?key=crossref.b8c4fd8906504a99c87f1218d5c8042f%20https://iopscience.iop.org/article/10.1088/1748-9326/11/11/114005" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://iopscience.iop.org/article/10.1088/1748-9326/11/11/114005" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -2196,7 +2168,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-11-00152.1%20http://journals.ametsoc.org/doi/abs/10.1175/WAF-D-11-00152.1" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-11-00152.1" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -2285,7 +2257,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.ouc.edu.cn/xbywb/%20http://link.springer.com/10.1007/s11802-012-1879-9" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://link.springer.com/10.1007/s11802-012-1879-9" target="_blank" rel="noopener">
     URL</a>
 
 </p>
@@ -2317,20 +2289,10 @@
   
 
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   
   <p class="powered-by">
-    © 2022 Shuai Wang
+    © 2022 Shuai Wang. All rights reserved.
   </p>
   
 
