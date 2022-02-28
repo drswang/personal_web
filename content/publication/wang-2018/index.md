@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T14:37:13.597304Z'
+publishDate: '2022-02-28T14:12:25.230252Z'
 publication_types:
 - '2'
 abstract: "The characteristics of tropical cyclone intensity and size during the mature\

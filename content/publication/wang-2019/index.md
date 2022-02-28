@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-13T14:37:13.289666Z'
+publishDate: '2022-02-28T14:12:25.033334Z'
 publication_types:
 - '2'
 abstract: The impact of dry midlevel air on the outer circulation of tropical cyclones
