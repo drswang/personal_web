@@ -39,7 +39,7 @@ experience:
     company: Princeton University
     company_url: ''
     company_logo: org-princeton
-    location: Princeton U
+    location: Princeton US
     date_start: '2021-03-01'
     date_end: '2021-12-31'
     description: |2-
