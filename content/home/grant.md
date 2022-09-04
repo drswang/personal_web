@@ -34,5 +34,5 @@ weight = 31
 - __Year:__ 2020-2022
 - __Granting Agency:__ European Space Agency
 - __Proposal Topic__: Big data intelligent mining and coupling analysis of eddy and cyclone 
-- __Role__: Co-I
+- __Role__: PI
 
