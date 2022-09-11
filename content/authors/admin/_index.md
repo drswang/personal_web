@@ -20,7 +20,7 @@ interests:
 - Severe Weathers
 - Climate Service
 organizations:
-- name: GFDL-NOAA/Princeton Univeristy
+- name: Princeton Univeristy/NOAA-GFDL
   url:
 role: Associate Research Scholar
 social:
@@ -46,6 +46,6 @@ superuser: true
 title: Shuai Wang
 ---
 
-Shuai Wang is an Associate Research Scholar working on atmospheric physics and fully-coupled climate modelling at NOAA-GFDL and Princeton University. Shuai completed his PhD on Atmospheric Physics at Imperial College. Before joining GFDL, he was a postdoctoral researcher at Princeton (Civil and Environmental Engineering), Imperial College (Physics), and a Research Follow at SOAS University of London (Environmental Management).
+Shuai Wang is an Associate Research Scholar working on atmospheric physics and fully-coupled climate modeling at Princeton University and NOAA-GFDL. Shuai completed his PhD on Atmospheric Physics at Imperial College London, UK. Before his current position, he was a postdoctoral research associate at Princeton (Department of Civil and Environmental Engineering) and Imperial College London (Department of Physics), and a joint Research Follow at SOAS University of London (School of Finance and Management).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}.

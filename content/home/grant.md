@@ -18,7 +18,7 @@ weight = 31
 ### __Postdoctoral and Visiting Research Scientist Program (Fellowship)__
 
 - __Year:__ 2022-2024
-- __Granting Agency:__ NOAA-GFDL/Princeton University
+- __Granting Agency:__ Princeton University/NOAA-GFDL
 - __Proposal Topic__: Tropical cyclone activity and climate change
 - __Role__: PI
 

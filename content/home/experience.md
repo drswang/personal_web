@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Research Scholar
-    company: GFDL-NOAA/Princeton University
+    company: Princeton University/NOAA-GFDL
     company_url: ''
     company_logo: org-gfdl
     location: Princeton US
@@ -32,7 +32,7 @@ experience:
     description: |2-
         Main foci:
         
-        * Climate modelling
+        * Climate modeling
         * Tropical cyclones
         
   - title: Postdocteral Research Associate
@@ -59,7 +59,7 @@ experience:
          Main foci:
  
          * Tropical Cyclone
-         * Numerical Modelling
+         * Numerical Modeling
          * Climate Service
 
   - title: Research Fellow (joint appointment)
