@@ -16,8 +16,8 @@ email: ""
 highlight_name: true
 interests:
 - Climate Modeling
-- Tropical Cyclones
-- Severe Weathers
+- Tropical Cyclone
+- Extreme Weather
 - Climate Service
 organizations:
 - name: Princeton Univeristy/NOAA-GFDL
